@@ -1,14 +1,15 @@
 # Site settings
-title: "My Cool Title"
-email: example@example.com 
+title: "TheTarotGamer"
+email: thetarotgamer@gmail.com 
 description: > # this means to ignore newlines until "baseurl:"
-    A GitHub Jekyll site designed to contain my blog. This site is
-    built on the solarized theme.
+   The website home of TheTarotGamer. I am the worlds greatest video game
+   player. World renowned techno-shaman. I do tarot card readings.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://myurl.github.io/"
-github_username:  my_account
-twitter_username: my_account
-youtube_username: my_account
+url: "http://thetarotgamer.github.io/"
+github_username: thetarotgamer 
+twitter_username: realtarotgamer
+youtube_username: thetarotgamer 
+#twitch_username: thetarotgamer 
 
 # Build settings
 markdown: kramdown
