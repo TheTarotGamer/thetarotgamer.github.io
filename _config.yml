@@ -1,0 +1,22 @@
+# Site settings
+title: "My Cool Title"
+email: example@example.com 
+description: > # this means to ignore newlines until "baseurl:"
+    A GitHub Jekyll site designed to contain my blog. This site is
+    built on the solarized theme.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://myurl.github.io/"
+github_username:  my_account
+twitter_username: my_account
+youtube_username: my_account
+
+# Build settings
+markdown: kramdown
+port: 4488
+permalink: pretty
+# Pagination Settings
+paginate: 5
+paginate_path: "/index/page:num"
+# Gems
+gems:
+    - jekyll-paginate
