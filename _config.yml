@@ -1,3 +1,7 @@
+###############################################################################
+# Website Configuration for TheTarotGamer
+###############################################################################
+
 # Site settings
 title: "TheTarotGamer"
 email: thetarotgamer@gmail.com 
@@ -10,6 +14,28 @@ github_username: thetarotgamer
 twitter_username: realtarotgamer
 youtube_username: thetarotgamer 
 #twitch_username: thetarotgamer 
+
+###############################################################################
+
+# Octopress
+# Default extension for new posts and pages
+post_ext: markdown
+page_ext: html
+
+# Default templates for posts and pages
+# Found in _templates/
+post_layout: post
+page_layout: page
+
+# Format titles with titlecase?
+titlecase: true
+
+# Change default template file (in _templates/)
+post_template: post
+page_template: page
+draft_template: draft
+
+###############################################################################
 
 # Build settings
 markdown: kramdown
