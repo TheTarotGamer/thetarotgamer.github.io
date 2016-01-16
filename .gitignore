@@ -25,7 +25,7 @@ _site/
 .sass-cache/
 
 # Ruby
-Gemfile.lock
+# Vim
 *.swp
 
 # Bower

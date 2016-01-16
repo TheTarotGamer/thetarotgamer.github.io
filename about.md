@@ -4,7 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is a template page that I created in order to work as a placeholder. When
-you are ready for your site to go live, you can edit this page. I recommend
-adding a lot of key word dense content that can help you rank well on search
-engines. It shouldn't be difficult to really pack in the goodies here.
+# Who is TheTarotGamer?
+
+## Cyber Shaman {{ '*extraordinaire*'| upcase }}. 
+TheTarotGamer loves to perform. He conducts tarot readings, plays games, and
+holds live shows on a regular basis through several streaming products.
+
+TheTarotGamer has been performing tarot readings for more than ten years. He has a
+fun and irreverent style sure to inspire and entertain. If you like quirky
+mysticism, fanciful occultism, and a good time, you will love TheTarotGamer.
+
+TheTarotGamer also teaches tarot card reading. Interested in learning how to
+read the cards? Check out a live show, read some of the posts here, or just
+reach out through the assortment of social media that TheTarotGamer uses.
+
+### This is a show that stars {{'*you!*'| upcase }}
