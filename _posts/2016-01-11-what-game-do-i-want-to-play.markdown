@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "What game do I want to play?"
 date: 2016-01-11T11:33:13-07:00
 author:		thetarotgamer 
