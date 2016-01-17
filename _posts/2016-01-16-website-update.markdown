@@ -27,7 +27,7 @@ and running since you don't need to worry about keeping packages and tools and
 blogging software up to date.
 
 Another positive that GitHub pages provides is monetary. It doesn't cost
-anything to host a website with GitHub. I priced out some hosting and more
+anything to host a website with GitHub. I priced out some hosting and most
 places are going to charge anywhere from $5 to $50 per month to host your
 website, do updates, and manage your web presence. That is a lot of money for
 someone who is running a YouTube channel for fun.
