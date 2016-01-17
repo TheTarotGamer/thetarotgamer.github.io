@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Website Update"
+comments: true
 date: 2016-01-16T06:50:17-07:00
 author:    TheTarotGamer 
 summary:    The new website is nearing a point where it can go live.
@@ -44,3 +45,9 @@ There aren't any images on the site yet but there will be. When I start adding
 more, I will add them to the imgur hosting account and then link them here.
 You have to be a little more reliant on outside sources for hosting things for
 you if you aren't handling them all yourself.
+
+The last item I am going to talk about is my new disqus account. I added
+comments to GitHub Pages by including the disqus and checking to see if the
+post has comments enabled. I enable comments by adding the variable 'comments'
+to the post yaml. If this sounds like Greek, I understand. It's not
+particularly important but I found it to be useful and fun.
