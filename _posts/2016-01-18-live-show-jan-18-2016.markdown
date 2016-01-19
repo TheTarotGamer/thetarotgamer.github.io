@@ -1,0 +1,41 @@
+---
+layout: post
+title: "Live Show Jan 18 2016"
+comments: true
+date: 2016-01-18T19:21:35-07:00
+author:     IWriteThings
+summary:    We performed a live show on Jan 18, 2016 through YouTube Hangouts. We had a ton of fun and read for many different viewers.
+categories: Tarot Readings
+thumbnail:  icon-desktop
+tags:
+ - youtube
+ - live show
+ - tarot
+ - readings
+ - show
+---
+
+This was an excellent and fun show. We did readings for a group of people that
+included viewers from Reddit as well as folks who showed up for the readings
+without prompt. It was spectacular fun. Check it out in the embedd or load it
+through YouTube.
+
+<div style="margin: 0px auto; text-align: center;">
+	<iframe width="560" height="315"
+		src="https://www.youtube.com/embed/n4zvEiOh1Xo" frameborder="0"
+		allowfullscreen>
+	</iframe>
+</div>
+
+## Participants
+
+1. Mesange: 3:45
+2. Yoda_33: 12:00
+3. Tibet Mares: 34:30
+5. Pepe: 40:50
+6. Nekroscents: 47:11
+7. Renegade Kappa: 56:18
+8. Pepe: 1:01:40 
+9. Elissb: 1:09:38
+10. Littlechipmunk89: 1:13:32 
+11. Gamer Sam: 1:17:00
